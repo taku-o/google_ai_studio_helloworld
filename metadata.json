@@ -1,0 +1,5 @@
+{
+  "name": "ハローワールド・メッセージ管理アプリ",
+  "description": "「ハローワールド」と表示し、データベース（localStorageを使用）にメッセージを保存・管理できるシンプルなWebアプリケーションです。",
+  "requestFramePermissions": []
+}
